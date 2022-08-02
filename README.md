@@ -2,6 +2,9 @@
 
 ![My Image](githubbanner.jpg)
 
+- 🔭 I’m currently working on a StudySpace app where users can listen to music, set a pomodoro timer, and keep track of their tasks
+- 🌱 I’m currently learning MongoDB, Express ...  
+
 
 
 <!--
