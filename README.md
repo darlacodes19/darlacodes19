@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Image](darla.jpg)
+![My Image](githubbanner.jpg)
 
 
 
